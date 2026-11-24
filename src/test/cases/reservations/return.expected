@@ -1,0 +1,7 @@
+Instrument added with ID 1.
+Reservation #1 created for Alice Smith.
+Piano was returned and is now available.
+[1] Piano | Keyboard | Available
+#1 | Instrument [1] Piano | Alice Smith | Returned
+This instrument is not currently borrowed.
+Goodbye!

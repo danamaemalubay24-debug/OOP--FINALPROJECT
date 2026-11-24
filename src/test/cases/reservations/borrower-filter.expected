@@ -1,0 +1,13 @@
+Instrument added with ID 1.
+Instrument added with ID 2.
+Instrument added with ID 3.
+Reservation #1 created for Alice Smith.
+Reservation #2 created for Alice Smith.
+Reservation #3 created for Bob Jones.
+#1 | Instrument [1] Piano | Alice Smith | Borrowed
+#2 | Instrument [2] Violin | Alice Smith | Borrowed
+Piano was returned and is now available.
+#2 | Instrument [2] Violin | Alice Smith | Borrowed
+No borrowed items found for Alice.
+#3 | Instrument [3] Trumpet | Bob Jones | Borrowed
+Goodbye!
